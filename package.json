@@ -61,7 +61,7 @@
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
     "file-saver": "^2.0.2",
-    "xlsx": "^0.9.13"
+    "xlsx": "^0.17.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
